@@ -1,0 +1,32 @@
+aid: meowfacts
+name: MeowFacts
+description: "Get random cat facts"
+url: https://github.com/wh-iterabb-it/meowfacts
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Animals"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Animals
+  - Public APIs
+apis:
+  - name: MeowFacts
+    description: "Get random cat facts"
+    humanURL: https://github.com/wh-iterabb-it/meowfacts
+    baseURL: https://github.com/wh-iterabb-it/meowfacts
+    tags:
+      - Animals
+    properties:
+      - type: Documentation
+        url: https://github.com/wh-iterabb-it/meowfacts
+common:
+  - type: Website
+    url: https://github.com/wh-iterabb-it/meowfacts
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
