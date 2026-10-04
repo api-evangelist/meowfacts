@@ -39,7 +39,6 @@ apis:
   - name: MeowFacts
     description: "Get random cat facts"
     humanURL: https://github.com/wh-iterabb-it/meowfacts
-    baseURL: https://github.com/wh-iterabb-it/meowfacts
     tags:
       - Animals
     properties:
